@@ -1,0 +1,274 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+.main{
+    width: 100%;
+    height:600px;
+    background-size: 100% 100%;
+    background:url('https://digitalhub.fifa.com/transform/11efbf28-c08e-4a13-958f-78685fbb8a80/Qatar-2022-s-32-teams-graphic?io=transform:fill,height:485,width:1024&quality=75');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-color: black;
+    padding-bottom: 10%;
+    padding-top: 5px;
+
+}
+.main h2 {
+    color:orange;
+
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    border-bottom: solid 4px blue;
+    border-top: solid 4px blue;
+    padding:10px;
+    
+}
+
+
+
+
+
+.france {
+
+    width: 100%;
+    height: 600px;
+    background: url('https://imgs.search.brave.com/OVFtnFza3E5wJyE_dqDTp6oOVKaTkIWiXuDs4tX3Yl4/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC9iSW5FYmpG/LmpwZw');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.france h2 {
+    margin: auto;
+    position: relative;
+    left: 475px;
+    top: 300px;
+    width: 250px;
+    height: 32px;
+    padding: 10px;
+    background-color: rgb(238, 48, 48);
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: solid 1px rgb(38, 0, 255);
+    border-radius: 5px;
+    
+    
+
+}
+
+.argentina {
+    width: 100%;
+    height: 600px;
+    background: url('https://imgs.search.brave.com/mi9sOxZVhyRMjDrS-mrAl32xqCikOEu9qGdItQNFA8k/rs:fit:1200:1200:1/g:ce/aHR0cDovL3dhbGxw/YXBlcmNhdmUuY29t/L3dwL2l0WWNWd0ou/cG5n');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.argentina h2 {
+    margin: auto;
+    position: relative;
+    left: 475px;
+    top: 300px;
+    width: 250px;
+    height: 37px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: solid 1px red;
+    border-radius: 5px;
+}
+
+.para-1 {
+    padding: 50px;
+    background-color: black;
+    color: white;
+    font-size: 17px;
+    text-align: center;
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.para-2 {
+    text-align: center;
+    padding: 25px;
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    color: white;
+    text-align: justify;
+}
+/* .para-1 {
+    padding: 50px;
+    background-color: black;
+    color: white;
+    font-size: 17px;
+    text-align: center;
+} */
+.spain {
+    width: 100%;
+    height: 600px;
+    background: url('https://imgs.search.brave.com/Ac8LCCJnkGpEgqiVX8A8VXk6tIQjjyEhuat-yWDUEJ4/rs:fit:1200:1080:1/g:ce/aHR0cDovL3MxLmJ3/YWxscGFwZXJzLmNv/bS93YWxscGFwZXJz/LzIwMTQvMDUvMjkv/c3BhaW4tZmxhZ18x/MjE0MTg1NDEuanBn');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+
+.spain h2 {
+    margin: auto;
+    position: relative;
+    left: 475px;
+    top: 300px;
+    width: 250px;
+    height: 37px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: solid 1px red;
+    border-radius: 5px;
+}
+.germany {
+    width: 100%;
+    height: 600px;
+    background: url('https://imgs.search.brave.com/aGe0Bv1ES1seuY7Ko2jVGQAYTuU1MuZe2uns0tvRJzo/rs:fit:1200:1200:1/g:ce/aHR0cDovL3dhbGxw/YXBlcmNhdmUuY29t/L3dwL3NvS09id2ou/cG5n');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+
+.germany h2 {
+    margin: auto;
+    position: relative;
+    left: 475px;
+    top: 300px;
+    width: 250px;
+    height: 37px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: solid 1px red;
+    border-radius: 5px;
+}
+
+.portugal {
+    width: 100%;
+    height: 600px;
+    background: url('https://imgs.search.brave.com/5KccjWgqswbSpZ9Wz5BT7SETKBuK9R_TIax4Tk7R0oc/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9pbWFn/ZXM4LmFscGhhY29k/ZXJzLmNvbS8xMDIv/MTAyNzgwNC5qcGc');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+
+.portugal h2 {
+    margin: auto;
+    position: relative;
+    left: 475px;
+    top: 300px;
+    width: 250px;
+    height: 37px;
+    padding: 10px;
+    
+    background-color: rgb(219, 31, 31);
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: solid 1px yellow;
+    border-radius: 5px;
+}
+.brazil {
+    width: 100%;
+    height: 600px;
+    background: url('https://imgs.search.brave.com/QDQQ85FUDrPl5WeQIIz6M4-nxJ0OSzRktGS3EAwMhA4/rs:fit:1200:1080:1/g:ce/aHR0cHM6Ly9pbWFn/ZXM2LmFscGhhY29k/ZXJzLmNvbS8xMDIv/dGh1bWItMTkyMC0x/MDI5NjI1LmpwZw    ');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+
+.brazil h2 {
+    margin: auto;
+    position: relative;
+    left: 475px;
+    top: 300px;
+    width: 250px;
+    height: 37px;
+    padding: 10px;
+    background-color: rgb(35, 94, 35);
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: solid 1px yellow;
+    border-radius: 5px;
+}
+.england {
+    width: 100%;
+    height: 600px;
+    background: url('https://imgs.search.brave.com/-h6MCrCh-hqf6cvU0S0_fGJJLstKkhvQVDiIEJOkuSQ/rs:fit:1200:1080:1/g:ce/aHR0cHM6Ly9ibG9n/Lmhkd2FsbHNvdXJj/ZS5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMTYvMDMvZW5n/bGFuZC1mbGFnLTI4/MzE3LTI5MDM4LWhk/LXdhbGxwYXBlcnMu/anBnLnBuZw    ');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+
+.england h2 {
+    
+    margin: auto;
+    position: relative;
+    left: 475px;
+    top: 300px;
+    width: 250px;
+    height: 37px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: solid 1px red;
+    border-radius: 5px;
+}
+
+p {
+    
+    font-size: 20px;
+    text-align: justify;
+}
+h3 {
+    text-align: center;
+    margin-top: 15px;
+    color: red;
+    border: 1px solid yellow;
+    width: 400px;
+    top:10px;
+    height: 30px;
+    margin: auto;
+    position: relative;
+    padding-top: 5px;
+    
+    
+    
+}
+h3:hover {
+    
+    color: blue;
+    
+}
+
+h2:hover{
+    color: red;
+    background-color: yellow;
+}
